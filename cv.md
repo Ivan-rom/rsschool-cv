@@ -6,9 +6,9 @@ Romanenko Ivan
 
 ## Contact information
 
-1. e-mail: rom_1van@icloud.com
+1. e-mail: <rom_1van@icloud.com>
 2. phone: +996500450226
-3. telegram: t.me/ivanRrr
+3. telegram: @ivanRrr
 
 ## About me
 
@@ -34,24 +34,33 @@ I don't have commercial experience yet
 
 ## Code Examples
 
-Some of my best pet projects:
+Find The Parity Outlier KATA from CODEWARS: *You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer __N__. Write a method that takes the array as an argument and returns this "outlier" __N__.*
 
-1.  CRUD table written with TypeScript, NextJS and Styled-components (work-in-progress):
-    https://github.com/Ivan-rom/crud-next-js
-2.  Google Excel clone written with clear JavaScript and SCSS
-    https://github.com/Ivan-rom/excel-course
-3.  My one of the first pet projects Tic-tac-toe game written with JavaScript, HTML and CSS:
-    https://github.com/Ivan-rom/tictactoe
+    function findOutlier(integers){
+      const odds = []
+      const evens = []
+      integers.forEach(int => int % 2 === 0 ? evens.push(int) : odds.push(int))
+      return odds.length === 1 ? odds[0] : evens[0]
+    }
+
+
 
 ## Work Experience
 
-I don't have any commercial experience yet
+I don't have any commercial experience yet but here are some of my best pet projects:
+
+- CRUD table written with TypeScript, NextJS and Styled-components (work-in-progress):
+    https://github.com/Ivan-rom/crud-next-js
+- Google Excel clone written with clear JavaScript and SCSS
+    https://github.com/Ivan-rom/excel-course
+- My one of the first pet projects Tic-tac-toe game written with JavaScript, HTML and CSS:
+    https://github.com/Ivan-rom/tictactoe
 
 ## Education
 
-1. Graduated from Geeks courses
-2. Graduated Kyrgyz Russian Academy of Education college with a degree software engineering
-3. Completed HTML Academy trainings
+- Graduated from Geeks courses
+- Graduated Kyrgyz Russian Academy of Education college with a degree software engineering
+- Completed HTML Academy trainings
 
 ## English Language
 
