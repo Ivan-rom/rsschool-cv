@@ -49,12 +49,9 @@ Find The Parity Outlier KATA from CODEWARS: *You are given an array (which will 
 
 I don't have any commercial experience yet but here are some of my best pet projects:
 
-- CRUD table written with TypeScript, NextJS and Styled-components (work-in-progress):
-    https://github.com/Ivan-rom/crud-next-js
-- Google Excel clone written with clear JavaScript and SCSS
-    https://github.com/Ivan-rom/excel-course
-- My one of the first pet projects Tic-tac-toe game written with JavaScript, HTML and CSS:
-    https://github.com/Ivan-rom/tictactoe
+- [CRUD table written with TypeScript, NextJS and Styled-components (work-in-progress)](https://github.com/Ivan-rom/crud-next-js)
+- [Google Excel clone written with clear JavaScript and SCSS](https://github.com/Ivan-rom/excel-course)
+- [My one of the first pet projects Tic-tac-toe game written with JavaScript, HTML and CSS](https://github.com/Ivan-rom/tictactoe)
 
 ## Education
 
